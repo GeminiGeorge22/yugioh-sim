@@ -1,5 +1,7 @@
 # Yu-Gi-Oh Sim
 
+[![yugioh-sim MCP connector](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/yugioh-sim/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.GeminiGeorge22/yugioh-sim)
+
 Yu-Gi-Oh Sim is a **Yu-Gi-Oh! simulator** you add to Claude, ChatGPT, Cursor, or VS Code. Paste a `.ydk` and ask: Is this legal on the TCG banlist? How often do I open a starter plus an extender? How many hand traps do I need going second? Goldfish this list.
 
 Operated by **FMF Tools**.
