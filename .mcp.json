@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yugioh-sim": {
+      "type": "http",
+      "url": "https://yugioh-sim.fmf-x402.workers.dev/mcp"
+    }
+  }
+}
